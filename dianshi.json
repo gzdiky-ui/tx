@@ -65,7 +65,7 @@
 {"key": "php2_del_ads_hmezy","name": "黑木耳(无广告)(T4_PHP)","type": 4,"api": "https://t4.doube.eu.org/del_ads_heimuer.php","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key":"api_黑木耳","name":"影视 | 黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./json/api黑木耳.json","jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 
-{"key":"量子","name":"影视 | 量子[直连]","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"categories":[""国产动漫,动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧"],"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+{"key":"量子","name":"影视 | 量子[直连]","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"categories":["国产动漫,动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧"],"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 {"key":"非凡","name":"影视 | 非凡[直连]","type":1,"api":"http://ffzy.tv/api.php/provide/vod/","searchable":1,"categories":["国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧"],"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},    
 {"key":"索尼","name":"影视 | 索尼[直连]","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"categories":["国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","港剧","台剧"],"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 {"key":"卧龙资源","name":"影视 | 卧龙资源[直连]","type":1,"api":"https://wolongzyw.com/api.php/provide/vod/","searchable":1,"categories":["国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧"]},
