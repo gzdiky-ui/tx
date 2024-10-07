@@ -5,7 +5,7 @@
 ],
 "wallpaper":"https://qist.cc/api/api.php",
 "sites":[
-{"key":"红牛","name":"影视 | 红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"categories":["国产动漫","电影","动作片","动漫"], "playUrl": "https://www.hnjiexi.com/m3u8/?url="},
+{"key":"红牛","name":"影视 | 红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"categories":["动漫","电影","动作片"], "playUrl": "https://www.hnjiexi.com/m3u8/?url="},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TVB云播.js"},
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
